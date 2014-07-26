@@ -1,0 +1,22 @@
+.controls
+{
+    float: right;
+}
+
+.label
+{
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+    border: 1px solid black;
+}
+
+canvas
+{
+    border: 1px solid #ccc;
+}
+#result-text
+{
+    max-width: 200px;
+}
